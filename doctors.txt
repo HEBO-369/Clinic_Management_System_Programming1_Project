@@ -1,0 +1,11 @@
+Name:Dr. Alice Johnson	Specialty:Cardiologist	Address:123 Heart Lane, New York, NY	Visita:250.00
+Name:Dr. Benjamin Lee	Specialty:Dermatologist	Address:456 Skin Ave, Los Angeles, CA	Visita:180.50
+Name:Dr. Catherine Smith	Specialty:Pediatrician	Address:789 Kids Blvd, Chicago, IL	Visita:200.00
+Name:Dr. Daniel Harris	Specialty:Cardiologist	Address:321 Joint St, Houston, TX	Visita:300.75
+Name:Dr. Emily Davis	Specialty:Dermatologist	Address:654 Brain Way, Miami, FL	Visita:350.00
+Name:Dr. Frank Thomas	Specialty:Pediatrician	Address:987 Vision Rd, Boston, MA	Visita:220.25
+Name:Dr. Grace Lee	Specialty:Cardiologist	Address:159 Health Ave, Seattle, WA	Visita:150.00
+Name:Dr. Henry Brown	Specialty:Dermatologist	Address:753 Ear Nose Throat Blvd, Denver, CO	Visita:210.50
+Name:Dr. Isabella Wilson	Specialty:Pediatrician	Address:852 Women’s Care Dr, San Francisco, CA	Visita:280.00
+Name:Dr. John Carter	Specialty:Cardiologist	Address:951 Mind Wellness Ln, Austin, TX	Visita:400.00
+Name:Dr. bhgvggygy	Specialty:Cardiologist	Address:951 Mind Wellness Ln, Austin, TX	Visita:300.00
